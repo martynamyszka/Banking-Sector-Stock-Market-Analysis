@@ -18,7 +18,7 @@ A quantitative data analysis project focused on evaluating the performance and r
 4. **Interactive Dashboard:** Designed a Power BI dashboard featuring dynamic slicers to visualize cumulative returns, price trends against moving averages, and volatility spikes over time.
 
 ## Dashboard Preview
-![Power BI Dashboard for HSBC](dashboard.png)
+![Power BI Dashboard for HSBC](banking_stocks_analysis-1.png)
 
 ## Repository Structure
 * `banking_analysis.py`: Main Python script for data extraction, metric calculation, and CSV export.
