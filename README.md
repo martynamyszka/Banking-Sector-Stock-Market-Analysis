@@ -23,5 +23,5 @@ A quantitative data analysis project focused on evaluating the performance and r
 ## Repository Structure
 * `banking_analysis.py`: Main Python script for data extraction, metric calculation, and CSV export.
 * `banking_stocks_analysis.csv`: Cleaned and processed dataset.
-* `Banking_Dashboard.pbix`: Power BI file containing the interactive report.
-* `dashboard.png`: Static snapshot of the final visualization.
+* `banking_stocks_analysis.pbix`: Power BI file containing the interactive report.
+* `dashboard.png`: Static snapshot of the final visualization of one bank.
