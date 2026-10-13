@@ -21,7 +21,7 @@ A quantitative data analysis project focused on evaluating the performance and r
 ![Power BI Dashboard for HSBC](banking_stocks_analysis-1.png)
 
 ## Repository Structure
-* `banking_analysis.py`: Main Python script for data extraction, metric calculation, and CSV export.
+* `banking_stocks_analysis.py`: Main Python script for data extraction, metric calculation, and CSV export.
 * `banking_stocks_analysis.csv`: Cleaned and processed dataset.
 * `banking_stocks_analysis.pbix`: Power BI file containing the interactive report.
-* `dashboard.png`: Static snapshot of the final visualization of one bank.
+* `banking_stocks_analysis-1.png`: Static snapshot of the final visualization of one bank.
